@@ -1,5 +1,16 @@
 # Blockchain @ Unica
 
+
+## Projects
+
+- [AlgoML](https://github.com/petitnau/algoml): a DSL for Algorand contracts
+- [BitML](https://github.com/bitml-lang/): a DSL for Bitcoin contracts
+- [Balzac](https://github.com/balzac-lang/): Bitcoin abstract language analyzer and compiler
+- [DeFi workbench](https://github.com/blockchain-unica/defi-workbench): a Decentralized Finance (DeFi) library in OCaml
+- [BlockAPI](https://github.com/blockchain-unica/blockapi): blockchain analytics APIs in Scala
+- [Blockchain for social good](https://github.com/blockchain-unica/social-good): a curated collection of blockchain-enabled social good projects
+
+
 ## Publications 
 
 ### 2021
