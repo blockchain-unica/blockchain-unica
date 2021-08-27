@@ -2,15 +2,16 @@
 
 ## 2021
 
-- M. Bartoletti, S. Lande, R. Zunino. [Computationally sound Bitcoin tokens](https://arxiv.org/abs/2010.01347). CSF 2021. Available as Corr abs/2009.12140
-- M. Bartoletti, J. Chiang, A. Lluch Lafuente. SoK: Lending pools in decentralized finance. WTSC, 2021. Available as Corr abs/2012.13230
-- M. Bartoletti, A. Bracciali, C. Lepore, A. Scalas, R. Zunino. A formal model of Algorand smart contracts. Financial Cryptography, 2021. Available as Corr abs/2010.01347
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350). COORDINATION, 2021
+- M. Bartoletti, S. Lande, R. Zunino. [Computationally sound Bitcoin tokens](https://arxiv.org/abs/2010.01347). CSF, 2021
+- M. Bartoletti, J. Chiang, A. Lluch Lafuente. [SoK: Lending pools in decentralized finance](https://arxiv.org/abs/2012.13230). WTSC, 2021.
+- M. Bartoletti, A. Bracciali, C. Lepore, A. Scalas, R. Zunino. [A formal model of Algorand smart contracts](https://arxiv.org/abs/2009.12140). Financial Cryptography, 2021.
 
 ## 2020
 
-- M. Bartoletti, S. Carta, T. Cimoli, R. Saia. Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact. In Future Generation Computer Systems, 102, 2020
-- M. Bartoletti. Smart contracts contracts. In Frontiers in Blockchain (Perspective article), 2020.
-- Massimo Bartoletti, Stefano Lande, Maurizio Murgia, Roberto Zunino. Verification of recursive Bitcoin contracts. Available as Corr abs/2011.14165, 2020.
+- M. Bartoletti, S. Carta, T. Cimoli, R. Saia. [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/pdf/1703.03779.pdf). In Future Generation Computer Systems, 102, 2020
+- M. Bartoletti. [Smart contracts contracts](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00027/full). In Frontiers in Blockchain (Perspective article), 2020.
+- Massimo Bartoletti, Stefano Lande, Maurizio Murgia, Roberto Zunino. [Verification of recursive Bitcoin contracts](). Available as Corr abs/2011.14165, 2020.
 - Massimo Bartoletti, Letterio Galletta, Maurizio Murgia. A theory of transaction parallelism in blockchains. Available as Corr abs/2011.13837
 - M. Bartoletti, M. Murgia, R. Zunino. Renegotiation and recursion in Bitcoin contracts. In Proc. COORDINATION 2020. Also available as Corr abs/2003.00296
 - M. Bartoletti, L. Galletta, M. Murgia. A true concurrent model of smart contracts executions. In Proc. COORDINATION 2020 (Awarded as COORDINATION 2020 best paper and as IFIP Best Paper Award). Also available as Corr abs/1905.04366, 2019
