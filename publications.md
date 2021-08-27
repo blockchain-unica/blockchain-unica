@@ -11,11 +11,11 @@
 
 - M. Bartoletti, S. Carta, T. Cimoli, R. Saia. [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/pdf/1703.03779.pdf). In Future Generation Computer Systems, 102, 2020
 - M. Bartoletti. [Smart contracts contracts](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00027/full). In Frontiers in Blockchain (Perspective article), 2020.
-- Massimo Bartoletti, Stefano Lande, Maurizio Murgia, Roberto Zunino. [Verification of recursive Bitcoin contracts](). Available as Corr abs/2011.14165, 2020.
-- Massimo Bartoletti, Letterio Galletta, Maurizio Murgia. A theory of transaction parallelism in blockchains. Available as Corr abs/2011.13837
-- M. Bartoletti, M. Murgia, R. Zunino. Renegotiation and recursion in Bitcoin contracts. In Proc. COORDINATION 2020. Also available as Corr abs/2003.00296
-- M. Bartoletti, L. Galletta, M. Murgia. A true concurrent model of smart contracts executions. In Proc. COORDINATION 2020 (Awarded as COORDINATION 2020 best paper and as IFIP Best Paper Award). Also available as Corr abs/1905.04366, 2019
-- M. Bartoletti, S. Lande, R. Zunino. Bitcoin covenants unchained. In Proc. ISOLA 2020. Also available as ArXiV preprint 2006.03918, 2020.
+- Massimo Bartoletti, Stefano Lande, Maurizio Murgia, Roberto Zunino. [Verification of recursive Bitcoin contracts](). Corr abs/2011.14165, 2020.
+- Massimo Bartoletti, Letterio Galletta, Maurizio Murgia. [A theory of transaction parallelism in blockchains](https://arxiv.org/abs/2011.13837). Corr abs/2011.13837
+- M. Bartoletti, M. Murgia, R. Zunino. [Renegotiation and recursion in Bitcoin contracts](https://arxiv.org/abs/2003.00296). COORDINATION 2020
+- M. Bartoletti, L. Galletta, M. Murgia. [A true concurrent model of smart contracts executions](https://arxiv.org/abs/1905.04366). COORDINATION, 2020 (Awarded as COORDINATION 2020 best paper and as IFIP Best Paper Award)
+- M. Bartoletti, S. Lande, R. Zunino. [Bitcoin covenants unchained](https://arxiv.org/abs/2006.03918). ISOLA, 2020
 
 ## 2019
 
