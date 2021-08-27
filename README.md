@@ -4,9 +4,11 @@
 
 ### 2021
 
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers
+](https://arxiv.org/abs/2106.01870). Corr abs/2106.01870, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350). COORDINATION, 2021
 - M. Bartoletti, S. Lande, R. Zunino. [Computationally sound Bitcoin tokens](https://arxiv.org/abs/2010.01347). CSF, 2021
-- M. Bartoletti, J. Chiang, A. Lluch Lafuente. [SoK: Lending pools in decentralized finance](https://arxiv.org/abs/2012.13230). WTSC, 2021.
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch Lafuente. [SoK: Lending pools in decentralized finance](https://arxiv.org/abs/2012.13230). WTSC, 2021.
 - M. Bartoletti, A. Bracciali, C. Lepore, A. Scalas, R. Zunino. [A formal model of Algorand smart contracts](https://arxiv.org/abs/2009.12140). Financial Cryptography, 2021.
 
 ### 2020
