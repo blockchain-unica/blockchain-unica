@@ -19,11 +19,11 @@
 
 ## 2019
 
-- N. Atzei, M. Bartoletti, S. Lande, N. Yoshida, R. Zunino. Developing secure Bitcoin contracts with BitML. In Proc. ESEC/FSE, 2019. Also presented at the Scaling Bitcoin Workshop, 2019.
-- M. Bartoletti, B. Bellomy, L. Pompianu. A journey into Bitcoin metadata. In Journal of Grid Computing 17(1), 3-22, 2019
-- M. Bartoletti, L. Galletta, M. Murgia: A minimal core calculus for Solidity contracts. In Proc. CBT, 2019
-- M. Bartoletti, R. Zunino. Verifying liquidity of Bitcoin contracts. In Proc. POST, 2019
-- M. Bartoletti, R. Zunino. Formal models of Bitcoin contracts: a survey. In Frontiers in Blockchain, 2019.
+- N. Atzei, M. Bartoletti, S. Lande, N. Yoshida, R. Zunino. [Developing secure Bitcoin contracts with BitML](https://arxiv.org/abs/1905.07639). ESEC/FSE, 2019 and Scaling Bitcoin Workshop, 2019.
+- M. Bartoletti, B. Bellomy, L. Pompianu. [A journey into Bitcoin metadata](https://www.researchgate.net/profile/Livio-Pompianu/publication/330385593_A_Journey_into_Bitcoin_Metadata/links/5e3990baa6fdccd96587d6df/A-Journey-into-Bitcoin-Metadata.pdf). Journal of Grid Computing 17(1), 3-22, 2019
+- M. Bartoletti, L. Galletta, M. Murgia: [A minimal core calculus for Solidity contracts](https://arxiv.org/abs/1908.02709). CBT, 2019
+- M. Bartoletti, R. Zunino. [Verifying liquidity of Bitcoin contracts](https://eprint.iacr.org/2018/1125). POST, 2019
+- M. Bartoletti, R. Zunino. [Formal models of Bitcoin contracts: a survey](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00008/full). Frontiers in Blockchain, 2019.
 
 ## 2018
 
