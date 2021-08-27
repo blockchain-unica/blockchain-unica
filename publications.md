@@ -27,19 +27,18 @@
 
 ## 2018
 
-- N. Atzei, M. Bartoletti, T. Cimoli, S. Lande, R. Zunino. SoK: unraveling Bitcoin smart contracts. In Proc. POST, 2018
-- N. Atzei, M. Bartoletti, S. Lande, R. Zunino. A formal model of Bitcoin transactions. In Proc. Financial Cryptography, 2018
-- M. Bartoletti, R. Zunino. BitML: a calculus for Bitcoin smart contracts. In Proc. ACM CCS, 2018. Also available as Cryptology ePrint Archive 2018/122, 2018
-- M. Bartoletti, L. Bocchi, M. Murgia. Progress-preserving Refinements of CTA. In Proc. CONCUR, 2018
-- M. Bartoletti, T. Cimoli, R. Zunino. Fun with Bitcoin smart contracts. In Proc. ISOLA, 2018. Also avaiable as Cryptology ePrint Archive 2018/398, 2018
-- M. Bartoletti, T. Cimoli, L. Pompianu, S. Serusi. Blockchain for social good: a quantitative analysis. In Proc. Goodtechs, 2018
-- M. Bartoletti, B. Pes, S. Serusi. Data mining for detecting Bitcoin Ponzi schemes. In Proc. Crypto Valley Conference on Blockchain Technology, 2018
+- N. Atzei, M. Bartoletti, T. Cimoli, S. Lande, R. Zunino. [SoK: unraveling Bitcoin smart contracts](https://eprint.iacr.org/2018/192.pdf). POST, 2018
+- N. Atzei, M. Bartoletti, S. Lande, R. Zunino. [A formal model of Bitcoin transactions](https://eprint.iacr.org/2017/1124.pdf). Financial Cryptography, 2018
+- M. Bartoletti, R. Zunino. [BitML: a calculus for Bitcoin smart contracts](https://eprint.iacr.org/2018/122.pdf). ACM CCS, 2018
+- M. Bartoletti, T. Cimoli, R. Zunino. [Fun with Bitcoin smart contracts](https://eprint.iacr.org/2018/398.pdf). ISOLA, 2018
+- M. Bartoletti, T. Cimoli, L. Pompianu, S. Serusi. [Blockchain for social good: a quantitative analysis](https://arxiv.org/abs/1811.03424). Goodtechs, 2018
+- M. Bartoletti, B. Pes, S. Serusi. [Data mining for detecting Bitcoin Ponzi schemes](https://arxiv.org/abs/1803.00646). Crypto Valley Conference on Blockchain Technology, 2018
 
 ## 2017
 
-- N. Atzei, M. Bartoletti, T. Cimoli. A survey of attacks on Ethereum smart contracts (SoK). In Proc. POST, 2017
-- M. Bartoletti, A. Bracciali, S. Lande, L. Pompianu. A general framework for blockchain analytics. In Proc. SERIAL, 2017
-- M. Bartoletti, R. Zunino. Constant-deposit multiparty lotteries on Bitcoin. In Proc. Bitcoin Workshop, 2017.
-- M. Bartoletti, L. Pompianu. An analysis of Bitcoin OP_RETURN metadata. In Proc. Bitcoin Workshop, 2017
-- M. Bartoletti, L. Pompianu. An empirical analysis of smart contracts: platforms, applications, and design patterns. In Proc. WTSC, 2017
-- M. Bartoletti, S. Lande, A.S. Podda. A Proof-of-Stake protocol for consensus on Bitcoin subchains. In Proc. WTSC, 2017
+- N. Atzei, M. Bartoletti, T. Cimoli. [A survey of attacks on Ethereum smart contracts (SoK)](https://eprint.iacr.org/2016/1007). POST, 2017
+- M. Bartoletti, A. Bracciali, S. Lande, L. Pompianu. [A general framework for blockchain analytics](https://arxiv.org/abs/1707.01021). SERIAL, 2017
+- M. Bartoletti, R. Zunino. [Constant-deposit multiparty lotteries on Bitcoin](https://eprint.iacr.org/2016/955). Bitcoin Workshop, 2017
+- M. Bartoletti, L. Pompianu. [An analysis of Bitcoin OP_RETURN metadata](https://arxiv.org/abs/1702.01024). Bitcoin Workshop, 2017
+- M. Bartoletti, L. Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns](https://arxiv.org/abs/1703.06322). WTSC, 2017
+- M. Bartoletti, S. Lande, A.S. Podda. [A Proof-of-Stake protocol for consensus on Bitcoin subchains](https://eprint.iacr.org/2017/417.pdf). WTSC, 2017
