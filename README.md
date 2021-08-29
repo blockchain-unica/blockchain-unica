@@ -1,3 +1,8 @@
+The Blockchain@Unica has been active since 2009 in foundational and applied research on computer security, with a special focus on programming languages and distributed systems security.
+
+The recent rise of blockchain technologies has opened up new challenges, to which the group has responded - among the first in Italy - by creating a dedicated research lab.
+
+Since 2015 we are a local node of the [Cyber Security National Laboratory](https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home/).
 
 # Projects
 
@@ -55,3 +60,13 @@
 - M. Bartoletti, L. Pompianu. [An analysis of Bitcoin OP_RETURN metadata](https://arxiv.org/abs/1702.01024). Bitcoin Workshop, 2017
 - M. Bartoletti, L. Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns](https://arxiv.org/abs/1703.06322). WTSC, 2017
 - M. Bartoletti, S. Lande, A.S. Podda. [A Proof-of-Stake protocol for consensus on Bitcoin subchains](https://eprint.iacr.org/2017/417.pdf). WTSC, 2017
+
+
+# Talks
+
+- [Bitcoin covenants unchained](https://youtu.be/xf75UKiIYG0) talk at ISOLA 2020
+- [A true concurrent model of smart contracts executions](https://youtu.be/vgoDvMa69cU) talk at COORDINATION 2020
+- [Renegotiation and Recursion in Bitcoin Contracts](https://youtu.be/cThgRZCBp50) talk at COORDINATION 2020
+- [Developing secure contracts with BitML](https://youtu.be/-gdfxNalDIc) talk at Scaling Bitcoin Workshop 2019
+- [BitML tool demo](https://youtu.be/bxx3bM5Pm6c) talk at ESEC/FSE 2019
+- [BitML: a calculus for Bitcoin smart contracts](https://youtu.be/JfRa7mASyb0) talk at ACM CCS 2018
