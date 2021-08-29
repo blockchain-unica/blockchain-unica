@@ -1,8 +1,4 @@
-The Blockchain@Unica has been active since 2009 in foundational and applied research on computer security, with a special focus on programming languages and distributed systems security.
-
-The recent rise of blockchain technologies has opened up new challenges, to which the group has responded - among the first in Italy - by creating a dedicated research lab.
-
-Since 2015 we are a local node of the [Cyber Security National Laboratory](https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home/).
+The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) cunducts foundational and applied research on decentralized applications, with a special focus on programming languages and security. Since 2015 we are a local node of the [Cyber Security National Laboratory](https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home/).
 
 # Projects
 
