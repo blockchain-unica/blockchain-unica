@@ -1,4 +1,10 @@
-The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) cunducts foundational and applied research on decentralized applications, with a special focus on programming languages and security. Since 2015 we are a local node of the [Cyber Security National Laboratory](https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home/).
+The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) conducts foundational and applied research on decentralized ledger technologies, with a special focus on programming languages and security. Since 2015 we are a local node of the [Cyber Security National Laboratory](https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home/), and in 2018 we co-founded the [Italian Distributed Ledger Technology Working Group](http://dltgroup.dmi.unipg.it/).
+
+# News
+
+- **08/2021** The Algorand Foundation will provide a grant to Blockchain@Unica and other nodes of the DLT Group for the organization of an International School on Algorand smart contracts
+- **07/2021** the Smart Contracts Research Forum has awarded Massimo Bartoletti and Roberto Zunino the inaugural [SCRF Impact Award](https://www.smartcontractresearch.org/t/scrf-impact-award/581/3) for their work on [BitML: A Calculus for Bitcoin Smart Contracts](https://eprint.iacr.org/2018/122.pdf)
+
 
 # Projects
 
@@ -14,8 +20,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 ## 2021
 
-- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers
-](https://arxiv.org/abs/2106.01870). Corr abs/2106.01870, 2021
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). Corr abs/2106.01870, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350). COORDINATION, 2021
 - M. Bartoletti, S. Lande, R. Zunino. [Computationally sound Bitcoin tokens](https://arxiv.org/abs/2010.01347). CSF, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch Lafuente. [SoK: Lending pools in decentralized finance](https://arxiv.org/abs/2012.13230). WTSC, 2021.
@@ -25,10 +30,10 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 - M. Bartoletti, S. Carta, T. Cimoli, R. Saia. [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/pdf/1703.03779.pdf). In Future Generation Computer Systems, 102, 2020
 - M. Bartoletti. [Smart contracts contracts](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00027/full). In Frontiers in Blockchain (Perspective article), 2020.
-- Massimo Bartoletti, Stefano Lande, Maurizio Murgia, Roberto Zunino. [Verification of recursive Bitcoin contracts](). Corr abs/2011.14165, 2020.
+- Massimo Bartoletti, Stefano Lande, Maurizio Murgia, Roberto Zunino. [Verifying liquidity of recursive Bitcoin contracts](https://arxiv.org/abs/2011.14165). Corr abs/2011.14165, 2020.
 - Massimo Bartoletti, Letterio Galletta, Maurizio Murgia. [A theory of transaction parallelism in blockchains](https://arxiv.org/abs/2011.13837). Corr abs/2011.13837
 - M. Bartoletti, M. Murgia, R. Zunino. [Renegotiation and recursion in Bitcoin contracts](https://arxiv.org/abs/2003.00296). COORDINATION 2020
-- M. Bartoletti, L. Galletta, M. Murgia. [A true concurrent model of smart contracts executions](https://arxiv.org/abs/1905.04366). COORDINATION, 2020 (Awarded as COORDINATION 2020 best paper and as IFIP Best Paper Award)
+- M. Bartoletti, L. Galletta, M. Murgia. [A true concurrent model of smart contracts executions](https://arxiv.org/abs/1905.04366). COORDINATION, 2020 (Awarded as COORDINATION 2020 best paper and as [IFIP Best Paper Award](http://www.discotec.org/2020/#ifip-best-paper-award))
 - M. Bartoletti, S. Lande, R. Zunino. [Bitcoin covenants unchained](https://arxiv.org/abs/2006.03918). ISOLA, 2020
 
 ## 2019
