@@ -64,9 +64,11 @@ Since 2015 we are a local node of the [Cyber Security National Laboratory](https
 
 # Talks
 
-- [Bitcoin covenants unchained](https://youtu.be/xf75UKiIYG0) talk at ISOLA 2020
-- [A true concurrent model of smart contracts executions](https://youtu.be/vgoDvMa69cU) talk at COORDINATION 2020
-- [Renegotiation and Recursion in Bitcoin Contracts](https://youtu.be/cThgRZCBp50) talk at COORDINATION 2020
-- [Developing secure contracts with BitML](https://youtu.be/-gdfxNalDIc?t=5541) talk at Scaling Bitcoin Workshop 2019
-- [BitML tool demo](https://youtu.be/bxx3bM5Pm6c) talk at ESEC/FSE 2019
-- [BitML: a calculus for Bitcoin smart contracts](https://youtu.be/JfRa7mASyb0) talk at ACM CCS 2018
+- [A formal model of Algorand smart contracts](https://youtu.be/q_127ILhaNA) talk at TPBC, 2021
+- [Computationally sound Bitcoin tokens](https://youtu.be/rB5c9p7RgwY) talk at Computer Security Foundations, 2021
+- [Bitcoin covenants unchained](https://youtu.be/xf75UKiIYG0) talk at ISOLA, 2020
+- [A true concurrent model of smart contracts executions](https://youtu.be/vgoDvMa69cU) talk at COORDINATION, 2020
+- [Renegotiation and Recursion in Bitcoin Contracts](https://youtu.be/cThgRZCBp50) talk at COORDINATION, 2020
+- [Developing secure contracts with BitML](https://youtu.be/-gdfxNalDIc?t=5541) talk at Scaling Bitcoin Workshop, 2019
+- [BitML tool demo](https://youtu.be/bxx3bM5Pm6c) talk at ESEC/FSE, 2019
+- [BitML: a calculus for Bitcoin smart contracts](https://youtu.be/JfRa7mASyb0) talk at ACM CCS, 2018
