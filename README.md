@@ -3,7 +3,8 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # News
 
 - **08/2021** The Algorand Foundation will provide a grant to Blockchain@Unica and other nodes of the DLT Group for the organization of an International School on Algorand smart contracts
-- **07/2021** the Smart Contracts Research Forum has awarded Massimo Bartoletti and Roberto Zunino the inaugural [SCRF Impact Award](https://www.smartcontractresearch.org/t/scrf-impact-award/581/3) for their work on [BitML: A Calculus for Bitcoin Smart Contracts](https://eprint.iacr.org/2018/122.pdf)
+- **07/2021** The Smart Contracts Research Forum has awarded Massimo Bartoletti and Roberto Zunino the inaugural [SCRF Impact Award](https://www.smartcontractresearch.org/t/scrf-impact-award/581/3) for their work on [BitML: A Calculus for Bitcoin Smart Contracts](https://eprint.iacr.org/2018/122.pdf)
+- **06/2021** We will deliver an advanced interactive course on the design of Bitcoin and BitML contracts to [Zenotta AG](https://www.zenotta.xyz/en/home.html).
 
 
 # Projects
