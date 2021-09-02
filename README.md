@@ -7,6 +7,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **06/2021** We will deliver an advanced interactive course on the design of Bitcoin and BitML contracts to [Zenotta AG](https://www.zenotta.xyz/en/home.html).
 - **04/2021** Our paper [A formal model of Algorand smart contracts](https://arxiv.org/abs/2009.12140) has been selected among those to be presented at the [Theory and Practice of Blockchains](https://tpbc2021.blockchain-workshop.net) online workshop
 - **02/2021** Our paper [Dissecting Ponzi schemes on Ethereum: Identification, analysis, and impact](https://www.sciencedirect.com/science/article/pii/S0167739X18301407) has been selected as one of the Editor's Choice Papers for the Future Generation Computer Systems (FGCS) journal
+- **12/2020**: Invited talk at LASIGE: [Bitcoin contracts: secure compilation, analysis, and expressiveness](https://www.lasige.pt/talk/talkslasige-massimo-bartoletti/)
 
 
 # Projects
