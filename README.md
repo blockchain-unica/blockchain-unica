@@ -8,6 +8,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **04/2021** Our paper [A formal model of Algorand smart contracts](https://arxiv.org/abs/2009.12140) has been selected among those to be presented at the [Theory and Practice of Blockchains](https://tpbc2021.blockchain-workshop.net) online workshop
 - **02/2021** Our paper [Dissecting Ponzi schemes on Ethereum: Identification, analysis, and impact](https://www.sciencedirect.com/science/article/pii/S0167739X18301407) has been selected as one of the Editor's Choice Papers for the Future Generation Computer Systems (FGCS) journal
 - **12/2020**: Invited talk at LASIGE: [Bitcoin contracts: secure compilation, analysis, and expressiveness](https://www.lasige.pt/talk/talkslasige-massimo-bartoletti/)
+- **11/2020**: Massimo Bartoletti has joined the Advisory Board of the [NGI ONTOCHAIN](https://ontochain.ngi.eu/About) project.
 
 
 # Projects
