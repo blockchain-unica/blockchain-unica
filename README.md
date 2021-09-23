@@ -30,6 +30,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - M. Bartoletti, S. Lande, R. Zunino. [Computationally sound Bitcoin tokens](https://arxiv.org/abs/2010.01347). CSF, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch Lafuente. [SoK: Lending pools in decentralized finance](https://arxiv.org/abs/2012.13230). WTSC, 2021.
 - M. Bartoletti, A. Bracciali, C. Lepore, A. Scalas, R. Zunino. [A formal model of Algorand smart contracts](https://arxiv.org/abs/2009.12140). Financial Cryptography, 2021.
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Towards a Theory of Decentralized Finance](https://link.springer.com/chapter/10.1007/978-3-662-63958-0_20). DeFi Workshop, 2021.
 
 ## 2020
 
