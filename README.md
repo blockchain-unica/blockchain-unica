@@ -27,7 +27,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 ## 2021
 
-- M. Bartoletti, L. Galletta, M. Murgia. [A theory of transaction parallelism in blockchains](https://arxiv.org/abs/2011.13837). To appear in Logical Methods in Computer Science, 2021
+- M. Bartoletti, L. Galletta, M. Murgia. [A theory of transaction parallelism in blockchains](https://lmcs.episciences.org/8722). In Logical Methods in Computer Science, 17(4), 2021
 - M. Bartoletti, S. Lande, A. Loddo, L. Pompianu, S. Serusi. [Cryptocurrency scams: analysis and perspectives](https://ieeexplore.ieee.org/document/9591634). IEEE Access, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). Corr abs/2106.01870, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350). COORDINATION, 2021
