@@ -25,11 +25,14 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # Publications 
 
+## 2022
+
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). To be presented at Financial Cryptography, 2022
+
 ## 2021
 
 - M. Bartoletti, L. Galletta, M. Murgia. [A theory of transaction parallelism in blockchains](https://lmcs.episciences.org/8722). In Logical Methods in Computer Science, 17(4), 2021
 - M. Bartoletti, S. Lande, A. Loddo, L. Pompianu, S. Serusi. [Cryptocurrency scams: analysis and perspectives](https://ieeexplore.ieee.org/document/9591634). IEEE Access, 2021
-- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). Corr abs/2106.01870, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350). COORDINATION, 2021
 - M. Bartoletti, S. Lande, R. Zunino. [Computationally sound Bitcoin tokens](https://arxiv.org/abs/2010.01347). CSF, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch Lafuente. [SoK: Lending pools in decentralized finance](https://arxiv.org/abs/2012.13230). WTSC, 2021.
