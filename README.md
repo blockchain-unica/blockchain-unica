@@ -28,13 +28,14 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 ## 2022
 
 - M. Bartoletti, S. Lande, M. Murgia, R. Zunino. [Verifying liquidity of recursive Bitcoin contracts](https://arxiv.org/abs/2011.14165). To appear in Logical Methods in Computer Science, 2022.
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350) (extended version of the equally titled COORDINATION 2021 paper). Submitted, 2022
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). To be presented at Financial Cryptography, 2022
 
 ## 2021
 
 - M. Bartoletti, L. Galletta, M. Murgia. [A theory of transaction parallelism in blockchains](https://lmcs.episciences.org/8722). In Logical Methods in Computer Science, 17(4), 2021
 - M. Bartoletti, S. Lande, A. Loddo, L. Pompianu, S. Serusi. [Cryptocurrency scams: analysis and perspectives](https://ieeexplore.ieee.org/document/9591634). IEEE Access, 2021
-- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350). COORDINATION, 2021
+- M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://link.springer.com/chapter/10.1007%2F978-3-030-78142-2_11). COORDINATION, 2021
 - M. Bartoletti, S. Lande, R. Zunino. [Computationally sound Bitcoin tokens](https://arxiv.org/abs/2010.01347). CSF, 2021
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch Lafuente. [SoK: Lending pools in decentralized finance](https://arxiv.org/abs/2012.13230). WTSC, 2021.
 - M. Bartoletti, A. Bracciali, C. Lepore, A. Scalas, R. Zunino. [A formal model of Algorand smart contracts](https://arxiv.org/abs/2009.12140). Financial Cryptography, 2021.
