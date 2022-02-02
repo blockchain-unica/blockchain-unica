@@ -27,7 +27,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 ## 2022
 
-- M. Bartoletti, S. Lande, M. Murgia, R. Zunino. [Verifying liquidity of recursive Bitcoin contracts](https://arxiv.org/abs/2011.14165). To appear in Logical Methods in Computer Science, 2022.
+- M. Bartoletti, S. Lande, M. Murgia, R. Zunino. [Verifying liquidity of recursive Bitcoin contracts](https://lmcs.episciences.org/9031). In Logical Methods in Computer Science 18(1), 2022.
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350) (extended version of the equally titled COORDINATION 2021 paper). Submitted, 2022
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). To be presented at Financial Cryptography, 2022
 
