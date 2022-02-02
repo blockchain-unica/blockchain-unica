@@ -78,8 +78,9 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # Talks
 
-- [Smart contracts in Bitcoin and BitML](https://bit.ly/31cufgx) talk at Dagstuhl Seminar on Rigorous Methods for Smart Contracts
+- [Smart contracts in Bitcoin and BitML](https://bit.ly/31cufgx) talk at Dagstuhl Seminar on Rigorous Methods for Smart Contracts, 2021
 - [A formal model of Algorand smart contracts](https://youtu.be/q_127ILhaNA) talk at TPBC, 2021
+- [A formal model of Algorand smart contracts](https://www.youtube.com/watch?v=gxLNA3BAOQc&t=4s) talk at Financial Cryptography, 2021
 - [Computationally sound Bitcoin tokens](https://youtu.be/rB5c9p7RgwY) talk at Computer Security Foundations, 2021
 - [Bitcoin covenants unchained](https://youtu.be/xf75UKiIYG0) talk at ISOLA, 2020
 - [A true concurrent model of smart contracts executions](https://youtu.be/vgoDvMa69cU) talk at COORDINATION, 2020
