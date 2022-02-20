@@ -2,7 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
-- **02/2022** We have won the [Developer Tooling](https://gitcoin.co/issue/algorandfoundation/grow-algorand/132/100027512) Algorand Challenge with [AlgoML](https://github.com/petitnau/algoml), our DSL for Algorand smart contracts
+- **02/2022** Roberto Pettinau and Massimo Bartoletti have won the 1st prize in the [Developer Tooling](https://gitcoin.co/issue/algorandfoundation/grow-algorand/132/100027512) Algorand Challenge with [AlgoML](https://github.com/petitnau/algoml), our DSL for Algorand smart contracts
 - **10/2021**. Invited talk on BitML at the [Dagstuhl Seminar on Rigorous Methods for Smart Contracts](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21431)
 - **09/2021** We have won a [bounty](https://gitcoin.co/issue/algorandfoundation/grow-algorand/86/100026298) in the Algorand Trailblazer Bounty Program with a tutorial on [building a decentralized vault using stateful smart contracts](https://developer.algorand.org/solutions/building-a-decentralized-vault-using-stateful-smart-contracts)
 - **08/2021** The Algorand Foundation will provide a grant to Blockchain@Unica and other nodes of the DLT Group for the organization of an International School on Algorand smart contracts
