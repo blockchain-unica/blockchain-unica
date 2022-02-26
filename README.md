@@ -80,6 +80,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # Talks
 
+- Formal methods for DeFi - Lending Pools and beyond. Invited talk at NYU Stern Fintech Conference, 2022
 - [Smart contracts in Bitcoin and BitML](https://bit.ly/31cufgx) talk at Dagstuhl Seminar on Rigorous Methods for Smart Contracts, 2021
 - [A formal model of Algorand smart contracts](https://youtu.be/q_127ILhaNA) talk at TPBC, 2021
 - [A formal model of Algorand smart contracts](https://www.youtube.com/watch?v=gxLNA3BAOQc&t=4s) talk at Financial Cryptography, 2021
