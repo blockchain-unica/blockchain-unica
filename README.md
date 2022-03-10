@@ -18,7 +18,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # Projects
 
 - [AlgoML](https://github.com/petitnau/algoml): a DSL for Algorand contracts
-- [BitML](https://github.com/bitml-lang/): a DSL for Bitcoin contracts
+- [BitML](https://github.com/bitml-lang/): a DSL for Bitcoin contracts ([documentation](https://bitml-lang.github.io/))
 - [Balzac](https://github.com/balzac-lang/): Bitcoin abstract language analyzer and compiler
 - [DeFi workbench](https://github.com/blockchain-unica/defi-workbench): a Decentralized Finance (DeFi) library in OCaml
 - [BlockAPI](https://github.com/blockchain-unica/blockapi): blockchain analytics APIs in Scala
