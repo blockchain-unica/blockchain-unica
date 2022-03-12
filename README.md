@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **03/2022** Invited talk at [BlockArch 2022](https://ww2.inf.ufg.br/~insight/blockarch2022/program.html): Smart contracts in Bitcoin and BitML
 - **02/2022** Invited talk at the [2022 Stern Fintech Conference](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/centers-of-research/fubon-center-technology-business-and-innovation/fubon-center-technology-business-and-innovation-events/2021-2022-events/2022): Formal methods for DeFi - Lending Pools and beyond
 - **02/2022** Roberto Pettinau and Massimo Bartoletti have won the 1st prize in the [Developer Tooling](https://developer.algorand.org/articles/meet-the-winners-schelling-point-virtual-hackathon-2022/) Algorand Challenge with [AlgoML](https://github.com/petitnau/algoml), our DSL for Algorand smart contracts
 - **10/2021**. Invited talk on BitML at the [Dagstuhl Seminar on Rigorous Methods for Smart Contracts](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21431)
