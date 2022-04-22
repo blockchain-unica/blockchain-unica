@@ -1,4 +1,4 @@
-# Blockchain@Unica
+# Blockchain at Unica
 
 The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) conducts foundational and applied research on decentralized ledger technologies, with a special focus on programming languages and security. Since 2015 we are a local node of the [Cyber Security National Laboratory](https://www.consorzio-cini.it/index.php/en/national-laboratories/labcs-home/), and in 2018 we co-founded the [Italian Distributed Ledger Technology Working Group](http://dltgroup.dmi.unipg.it/).
 
