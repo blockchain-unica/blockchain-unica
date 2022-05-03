@@ -4,6 +4,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 - **08/2022** Invited talk at [FMBC 2022](https://fmbc.gitlab.io/2022/)
 - **06/2022** Massimo Bartoletti and Roberto Zunino will give a BitML tutorial at [Discotec 2022](https://www.discotec.org/2022/tutorials)
+- **05/2022** Launched Call for Participation of the [International School on Algorand Smart Contracts](https://algorand-school.github.io/algorand-school/)
 - **04/2022**. Launched the CfP for the [3rd Blockchain and Distributed Ledger Technology School](https://www.agile-group.org/blockchainsummerschool/)
 - **03/2022** Massimo Bartoletti received the 2021 Best Reviewer Award from [Blockchain: Research and Applications (BCRA)](https://www.sciencedirect.com/journal/blockchain-research-and-applications/vol/3/issue/1)
 - **03/2022** Invited talk at [BlockArch 2022](https://ww2.inf.ufg.br/~insight/blockarch2022/program.html): Smart contracts in Bitcoin and BitML
