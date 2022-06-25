@@ -3,8 +3,10 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # News
 
 - **08/2022** Invited talk at [FMBC 2022](https://fmbc.gitlab.io/2022/)
-- **06/2022** Massimo Bartoletti and Roberto Zunino will give a BitML tutorial at [Discotec 2022](https://www.discotec.org/2022/tutorials)
+- **06/2022** Massimo Bartoletti will give a lecture about DeFi at the [3rd Blockchain and Distributed Ledger Technology School](https://www.agile-group.org/blockchainsummerschool/)
+- **06/2022** Massimo Bartoletti and Roberto Zunino have given a tutorial on BitML at [Discotec 2022](https://www.discotec.org/2022/tutorials)
 - **05/2022** Launched the CfP for the [International School on Algorand Smart Contracts](https://algorand-school.github.io/algorand-school/)
+- **05/2022** Our paper [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870) has been presented at [Financial Cryptography 2022](https://fc22.ifca.ai/program.html)
 - **04/2022** Launched the CfP for the [3rd Blockchain and Distributed Ledger Technology School](https://www.agile-group.org/blockchainsummerschool/)
 - **03/2022** Massimo Bartoletti received the 2021 Best Reviewer Award from [Blockchain: Research and Applications (BCRA)](https://www.sciencedirect.com/journal/blockchain-research-and-applications/vol/3/issue/1)
 - **03/2022** Invited talk at [BlockArch 2022](https://ww2.inf.ufg.br/~insight/blockarch2022/program.html): Smart contracts in Bitcoin and BitML
@@ -38,7 +40,8 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - M. Bartoletti, S. Lande, M. Murgia, R. Zunino. [Verifying liquidity of recursive Bitcoin contracts](https://lmcs.episciences.org/9031). In Logical Methods in Computer Science 18(1), 2022.
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350) (extended version of the equally titled COORDINATION 2021 paper). Submitted, 2022
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). Financial Cryptography, 2022
-- M. Bartoletti, M. Murgia, R. Zunino. [A Sound Up-to-n,δ Bisimilarity for PCTL](https://arxiv.org/abs/2111.03117). To be presented at COORDINATION, 2022
+- M. Bartoletti, M. Murgia, R. Zunino. [A Sound Up-to-n,δ Bisimilarity for PCTL](https://arxiv.org/abs/2111.03117). COORDINATION, 2022
+- M. Bartoletti, J.H. Chiang, T. Junttila, A. Lluch-Lafuente, M. Mirelli, A. Vandin. [Formal Analysis of Lending Pools in Decentralized Finance](https://arxiv.org/abs/2206.01333). CoRR abs/2206.01333 (2022)
 
 ## 2021
 
