@@ -3,7 +3,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # News
 
 - **08/2022** Invited talk at [FMBC 2022](https://fmbc.gitlab.io/2022/)
-- **06/2022** Massimo Bartoletti will give a lecture about DeFi at the [3rd Blockchain and Distributed Ledger Technology School](https://www.agile-group.org/blockchainsummerschool/)
+- **06/2022** [Lecture about DeFi](https://docs.google.com/presentation/d/13Hy_ac8UT7b9hVQD9y5c_8DQlGMblvBF4gcXL35DPhI/edit?usp=sharing) at the [3rd Blockchain and Distributed Ledger Technology School](https://www.agile-group.org/blockchainsummerschool/)
 - **06/2022** Massimo Bartoletti and Roberto Zunino have given a tutorial on BitML at [Discotec 2022](https://www.discotec.org/2022/tutorials)
 - **05/2022** Launched the CfP for the [International School on Algorand Smart Contracts](https://algorand-school.github.io/algorand-school/)
 - **05/2022** Our paper [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870) has been presented at [Financial Cryptography 2022](https://fc22.ifca.ai/program.html)
