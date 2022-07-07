@@ -41,7 +41,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350) (extended version of the equally titled COORDINATION 2021 paper). Submitted, 2022
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/abs/2106.01870). Financial Cryptography, 2022
 - M. Bartoletti, M. Murgia, R. Zunino. [A Sound Up-to-n,δ Bisimilarity for PCTL](https://arxiv.org/abs/2111.03117). COORDINATION, 2022
-- M. Bartoletti, J.H. Chiang, T. Junttila, A. Lluch-Lafuente, M. Mirelli, A. Vandin. [Formal Analysis of Lending Pools in Decentralized Finance](https://arxiv.org/abs/2206.01333). CoRR abs/2206.01333 (2022)
+- M. Bartoletti, J.H. Chiang, T. Junttila, A. Lluch-Lafuente, M. Mirelli, A. Vandin. [Formal Analysis of Lending Pools in Decentralized Finance](https://arxiv.org/abs/2206.01333). ISOLA, 2022
 
 ## 2021
 
