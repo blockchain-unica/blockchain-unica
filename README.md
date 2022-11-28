@@ -91,6 +91,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # Talks
 
+- [MEV-freedom in DeFi and beyond](https://docs.google.com/presentation/d/1jbXMTbBhxkGqAm-ISBOpZ5KkXFJgglLkAOejnWd-pP8/edit?usp=sharing). Invited talk at [FMBC 2022](https://fmbc.gitlab.io/2022/)
 - [Maximizing Extractable Value from Automated Market Makers](https://youtu.be/rAxIuAP_6mw) talk at Financial Cryptography, 2022
 - Smart contracts in Bitcoin and BitML. Invited talk at the [3rd Workshop on Blockchain-based Architectures (BlockArch)](https://ww2.inf.ufg.br/~insight/blockarch2022/program.html), 2022
 - [Formal methods for DeFi - Lending Pools and beyond](https://www.youtube.com/watch?v=vPRQqUdv8m8). Invited talk at NYU Stern Fintech Conference, 2022
