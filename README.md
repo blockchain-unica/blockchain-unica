@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **12/2022** Serving as PC member of [Financial Cryptography 2023](https://fc23.ifca.ai/)
 - **11/2022** Hosting a panel at the [Multi-disciplinary Workshop on Blockchain & DLT](https://dltgroup.dmi.unipg.it/DLTWorkshop/dltFI22.html)
 - **08/2022** Invited talk at [FMBC 2022](https://fmbc.gitlab.io/2022/)
 - **06/2022** [Lecture about DeFi](https://docs.google.com/presentation/d/13Hy_ac8UT7b9hVQD9y5c_8DQlGMblvBF4gcXL35DPhI/edit?usp=sharing) at the [3rd Blockchain and Distributed Ledger Technology School](https://www.agile-group.org/blockchainsummerschool/)
