@@ -37,6 +37,11 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # Publications 
 
+## 2023
+
+- M. Bartoletti, M. Murgia, R. Zunino. [Sound approximate and asymptotic probabilistic bisimulations for PCTL](https://arxiv.org/abs/2111.03117). Submitted, 2023
+- M. Bartoletti, R. Zunino. A theoretical basis for Blockchain Extractable Value. Submitted, 2023
+
 ## 2022
 
 - M. Bartoletti, J. Hsin-yu Chiang, A. Lluch-Lafuente. [A theory of Automated Market Makers in DeFi](https://arxiv.org/abs/2102.11350) (extended version of the equally titled COORDINATION 2021 paper). In Logical Methods in Computer Science 18(4), 2022
