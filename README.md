@@ -42,8 +42,9 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 ## 2023
 
-- M. Bartoletti, M. Murgia, R. Zunino. [Sound approximate and asymptotic probabilistic bisimulations for PCTL](https://arxiv.org/abs/2111.03117). To appear in Logical Methods in Computer Science, 2023
+- M. Bartoletti, M. Murgia, R. Zunino. [Sound approximate and asymptotic probabilistic bisimulations for PCTL](https://arxiv.org/abs/2111.03117). In Logical Methods in Computer Science 19(1), 2023
 - M. Bartoletti, R. Zunino. [A theoretical basis for Blockchain Extractable Value](http://arxiv.org/abs/2302.02154). Submitted, 2023
+- M. Bartoletti, R. Marchesin, R. Zunino. [Secure compilation of rich smart contracts on poor UTXO blockchains](). Submitted, 2023
 
 ## 2022
 
