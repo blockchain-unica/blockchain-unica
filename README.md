@@ -45,7 +45,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 ## 2023
 
-- M. Bartoletti, R. Marchesin, R. Zunino. [DeFi composability as MEV non-interference](https://arxiv.org/abs/2309.?????). Submitted, 2023
+- M. Bartoletti, R. Marchesin, R. Zunino. [DeFi composability as MEV non-interference](https://arxiv.org/abs/2309.10781). Submitted, 2023
 - M. Bartoletti, M. Murgia, R. Zunino. [Sound approximate and asymptotic probabilistic bisimulations for PCTL](https://arxiv.org/abs/2111.03117). In Logical Methods in Computer Science 19(1), 2023
 - M. Bartoletti, R. Zunino. [A theoretical basis for Blockchain Extractable Value](http://arxiv.org/abs/2302.02154). Submitted, 2023
 - M. Bartoletti, R. Marchesin, R. Zunino. [Secure compilation of rich smart contracts on poor UTXO blockchains](https://arxiv.org/abs/2305.09545). Submitted, 2023
