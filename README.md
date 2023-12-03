@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **12/2023** Received the CCS 2023 Top Reviewer Award from [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
 - **9/2023** Serving as PC member of [Financial Cryptography 2024](https://fc24.ifca.ai/)
 - **7/2023** Organizing [DLT-FM: Workshop on Distributed Ledger Technologies and Formal Methods](https://dlt-fm-workshop.github.io/)
 - **7/2023** Organizing the [4th Blockchain & DLT School](https://dlt-school.github.io/)
