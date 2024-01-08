@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **1/2024** [DeFi composability](https://arxiv.org/abs/2309.10781) paper accepted at [FC 2024](https://fc24.ifca.ai/) 
 - **12/2023** Organizing [DLT 2024](https://dlt2024.di.unito.it/)
 - **12/2023** Received the CCS 2023 Top Reviewer Award from [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
 - **9/2023** Serving as PC member of [Financial Cryptography 2024](https://fc24.ifca.ai/)
