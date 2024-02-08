@@ -38,6 +38,11 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # Projects
 
+Current projects:
+- [An open benchmark for evaluating smart contracts verification tools](https://github.com/fsainas/contracts-verification-benchmark)
+- [AMM formalization in Lean4](https://github.com/danielepusceddu/lean4-amm)
+  
+Past projects:
 - [AlgoML](https://github.com/petitnau/algoml): a DSL for Algorand contracts
 - [BitML](https://github.com/bitml-lang/): a DSL for Bitcoin contracts ([documentation](https://bitml-lang.github.io/))
 - [Balzac](https://github.com/balzac-lang/): Bitcoin abstract language analyzer and compiler
