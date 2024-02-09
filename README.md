@@ -56,6 +56,8 @@ Past projects:
 ## 2024
 
 - M. Bartoletti, R. Marchesin, R. Zunino. [DeFi composability as MEV non-interference](https://arxiv.org/abs/2309.10781). Financialy Cryptography, 2024 (to appear)
+- M. Bartoletti, F. Fioravanti, G. Matricardi, R. Pettinau and F. Sainas. Towards Benchmarking of Solidity verification tools. Submitted, 2024
+- D. Pusceddu and M. Bartoletti. Formalizing Automated Market Makers in the Lean 4 Theorem Prover. Submitted, 2024
 
 ## 2023
 
