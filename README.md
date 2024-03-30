@@ -39,6 +39,8 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # Projects
 
 Current projects:
+- [ILLUM: a compiler from the HeLLUM contract language to the ILLUM intermediate language](https://github.com/bitbart/illum-lang)
+- [Rosetta Smart Contracts: a chrestomathy of programming tasks in different smart contract languages](https://github.com/blockchain-unica/rosetta-smart-contracts)
 - [An open benchmark for evaluating smart contracts verification tools](https://github.com/fsainas/contracts-verification-benchmark)
 - [AMM formalization in Lean4](https://github.com/danielepusceddu/lean4-amm)
   
