@@ -57,6 +57,7 @@ Past projects:
 
 ## 2024
 
+- M. Bartoletti, R. Marchesin, R. Zunino. [Secure compilation of rich smart contracts on poor UTXO blockchains](https://arxiv.org/abs/2305.09545). IEEE European Symposium on Security and Privacy, 2024
 - M. Bartoletti, R. Marchesin, R. Zunino. [DeFi composability as MEV non-interference](https://arxiv.org/abs/2309.10781). Financial Cryptography, 2024
 - M. Bartoletti, F. Fioravanti, G. Matricardi, R. Pettinau and F. Sainas. [Towards Benchmarking of Solidity verification tools](https://arxiv.org/abs/2402.10750). FMBC, 2024
 - D. Pusceddu and M. Bartoletti. [Formalizing Automated Market Makers in the Lean 4 Theorem Prover](https://arxiv.org/abs/2402.06064). FMBC, 2024
@@ -65,7 +66,6 @@ Past projects:
 
 - M. Bartoletti, M. Murgia, R. Zunino. [Sound approximate and asymptotic probabilistic bisimulations for PCTL](https://arxiv.org/abs/2111.03117). In Logical Methods in Computer Science 19(1), 2023
 - M. Bartoletti, R. Zunino. [A theoretical basis for Blockchain Extractable Value](http://arxiv.org/abs/2302.02154). Submitted, 2023
-- M. Bartoletti, R. Marchesin, R. Zunino. [Secure compilation of rich smart contracts on poor UTXO blockchains](https://arxiv.org/abs/2305.09545). Submitted, 2023
 - M. Bartoletti. [Which smart contract platform do you need?](https://www.blockchainresearchinstitute.org/project/which-smart-contract-platform-do-you-need/), Blockchain Research Institute, 2023
 
 ## 2022
