@@ -61,6 +61,8 @@ Past projects:
 - M. Bartoletti, R. Marchesin, R. Zunino. [DeFi composability as MEV non-interference](https://arxiv.org/abs/2309.10781). Financial Cryptography, 2024
 - M. Bartoletti, F. Fioravanti, G. Matricardi, R. Pettinau and F. Sainas. [Towards Benchmarking of Solidity verification tools](https://arxiv.org/abs/2402.10750). FMBC, 2024
 - D. Pusceddu and M. Bartoletti. [Formalizing Automated Market Makers in the Lean 4 Theorem Prover](https://arxiv.org/abs/2402.06064). FMBC, 2024
+- M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
+](https://arxiv.org/abs/2404.04129), Submitted, 2024
 
 ## 2023
 
