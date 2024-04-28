@@ -39,7 +39,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # Projects
 
 Current projects:
-- [Solvent: liveness verification of smart contracts](https://github.com/bitbart/Solvent)
+- [Solvent: liquidity verification of smart contracts](https://github.com/bitbart/Solvent)
 - [ILLUM: a compiler from the HeLLUM contract language to the ILLUM intermediate language](https://github.com/bitbart/illum-lang)
 - [Rosetta Smart Contracts: a chrestomathy of programming tasks in different smart contract languages](https://github.com/blockchain-unica/rosetta-smart-contracts)
 - [An open benchmark for evaluating smart contracts verification tools](https://github.com/fsainas/contracts-verification-benchmark)
@@ -64,6 +64,7 @@ Past projects:
 - D. Pusceddu and M. Bartoletti. [Formalizing Automated Market Makers in the Lean 4 Theorem Prover](https://arxiv.org/abs/2402.06064). FMBC, 2024
 - M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
 ](https://arxiv.org/abs/2404.04129), Submitted, 2024
+- M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone. Solvent: liquidity verification of smart contracts, Submitted, 2024
 
 ## 2023
 
