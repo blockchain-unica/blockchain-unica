@@ -64,7 +64,8 @@ Past projects:
 - D. Pusceddu and M. Bartoletti. [Formalizing Automated Market Makers in the Lean 4 Theorem Prover](https://arxiv.org/abs/2402.06064). FMBC, 2024
 - M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
 ](https://arxiv.org/abs/2404.04129), Submitted, 2024
-- M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone. Solvent: liquidity verification of smart contracts, Submitted, 2024
+- M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone. [Solvent: liquidity verification of smart contracts](
+http://arxiv.org/abs/2404.17864), Submitted, 2024
 
 ## 2023
 
