@@ -2,6 +2,9 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **5/2024** Attending the [Frontiers in DeFi](https://csh.ac.at/events/frontiers-in-defi/) workshop in Wien
+- **5/2024** Attending the [DLT Workshop](https://dlt2024.di.unito.it/) in Turin
+- **4/2024** Attending the [FMBC Workshop](https://fmbc.gitlab.io/2024/index.html) in Luxembourg
 - **2/2024** Serving as PC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html)
 - **2/2024** Serving as PC member of [FMBC 2024](https://fmbc.gitlab.io/2024/index.html)
 - **1/2024** [DeFi composability](https://arxiv.org/abs/2309.10781) paper accepted at [FC 2024](https://fc24.ifca.ai/) 
