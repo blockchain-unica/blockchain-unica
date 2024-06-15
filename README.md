@@ -69,6 +69,7 @@ Past projects:
 ](https://arxiv.org/abs/2404.04129), Submitted, 2024
 - M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone. [Solvent: liquidity verification of smart contracts](
 http://arxiv.org/abs/2404.17864), Submitted, 2024
+- M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). ArXiV preprint, 2024
 
 ## 2023
 
