@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **6/2024** Organizing the [5th Blockchain & DLT School](https://dlt-school.github.io/)
 - **5/2024** Attending the [Frontiers in DeFi](https://csh.ac.at/events/frontiers-in-defi/) workshop in Wien
 - **5/2024** Attending the [DLT Workshop](https://dlt2024.di.unito.it/) in Turin
 - **4/2024** Attending the [FMBC Workshop](https://fmbc.gitlab.io/2024/index.html) in Luxembourg
@@ -12,7 +13,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **12/2023** Received the CCS 2023 Top Reviewer Award from [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
 - **9/2023** Serving as PC member of [Financial Cryptography 2024](https://fc24.ifca.ai/)
 - **7/2023** Organizing [DLT-FM: Workshop on Distributed Ledger Technologies and Formal Methods](https://dlt-fm-workshop.github.io/)
-- **7/2023** Organizing the [4th Blockchain & DLT School](https://dlt-school.github.io/)
+- **7/2023** Organizing the [4th Blockchain & DLT School](https://dlt-school.github.io/2023)
 - **5/2023** Serving as PC member of [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
 - **3/2023** Serving as PC member of [IEEE DAPPS 2023](https://ieeedapps.com/)
 - **1/2023** Serving as PC member of [WTSC 2023](https://fc23.ifca.ai/wtsc/index.html)
