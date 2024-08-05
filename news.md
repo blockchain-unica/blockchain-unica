@@ -1,5 +1,15 @@
 # News by year
 
+## 2023
+- **12/2023** Organizing [DLT 2024](https://dlt2024.di.unito.it/)
+- **12/2023** Received the CCS 2023 Top Reviewer Award from [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
+- **9/2023** Serving as PC member of [Financial Cryptography 2024](https://fc24.ifca.ai/)
+- **7/2023** Organizing [DLT-FM: Workshop on Distributed Ledger Technologies and Formal Methods](https://dlt-fm-workshop.github.io/)
+- **7/2023** Organizing the [4th Blockchain & DLT School](https://dlt-school.github.io/2023)
+- **5/2023** Serving as PC member of [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
+- **3/2023** Serving as PC member of [IEEE DAPPS 2023](https://ieeedapps.com/)
+- **1/2023** Serving as PC member of [WTSC 2023](https://fc23.ifca.ai/wtsc/index.html)
+
 ## 2022
 - **12/2022** Serving as PC member of [Financial Cryptography 2023](https://fc23.ifca.ai/)
 - **11/2022** Hosting a panel at the [Multi-disciplinary Workshop on Blockchain & DLT](https://dltgroup.dmi.unipg.it/DLTWorkshop/dltFI22.html)
