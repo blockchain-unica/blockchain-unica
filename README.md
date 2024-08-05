@@ -17,7 +17,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **5/2023** Serving as PC member of [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
 - **3/2023** Serving as PC member of [IEEE DAPPS 2023](https://ieeedapps.com/)
 - **1/2023** Serving as PC member of [WTSC 2023](https://fc23.ifca.ai/wtsc/index.html)
-- **[older news](older-news)**
+- **[older news](news.md)**
 
 # Projects
 
