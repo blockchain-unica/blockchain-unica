@@ -42,12 +42,12 @@ Past projects:
 
 ## 2024
 
+- M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
+](https://arxiv.org/abs/2404.04129), Future Generation Computer Systems, 2024 (to appear)
 - M. Bartoletti, R. Marchesin, R. Zunino. [Secure compilation of rich smart contracts on poor UTXO blockchains](https://arxiv.org/abs/2305.09545). IEEE European Symposium on Security and Privacy, 2024
 - M. Bartoletti, R. Marchesin, R. Zunino. [DeFi composability as MEV non-interference](https://arxiv.org/abs/2309.10781). Financial Cryptography, 2024
 - M. Bartoletti, F. Fioravanti, G. Matricardi, R. Pettinau and F. Sainas. [Towards Benchmarking of Solidity verification tools](https://arxiv.org/abs/2402.10750). FMBC, 2024
 - D. Pusceddu and M. Bartoletti. [Formalizing Automated Market Makers in the Lean 4 Theorem Prover](https://arxiv.org/abs/2402.06064). FMBC, 2024
-- M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
-](https://arxiv.org/abs/2404.04129), Submitted, 2024
 - M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone. [Solvent: liquidity verification of smart contracts](
 http://arxiv.org/abs/2404.17864), iFM, 2024
 - M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). ArXiV preprint, 2024
