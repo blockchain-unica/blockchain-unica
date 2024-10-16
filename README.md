@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **10/2024** Invited lecture at the [Lisbon Blockchain Winter School (LxBWS)](https://lxbws.tecnico.ulisboa.pt/) 
 - **9/2024** Serving as PC member of [Financial Cryptography 2025](https://fc25.ifca.ai/)
 - **6/2024** Organizing the [5th Blockchain & DLT School](https://dlt-school.github.io/)
 - **5/2024** Attending the [Frontiers in DeFi](https://csh.ac.at/events/frontiers-in-defi/) workshop in Wien
