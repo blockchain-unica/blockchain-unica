@@ -41,6 +41,10 @@ Past projects:
 
 # Publications 
 
+## 2025
+
+- M. Bartoletti, R. Zunino. [A theoretical basis for MEV](http://arxiv.org/abs/2302.02154). Financial Cryptography, 2025
+
 ## 2024
 
 - M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
@@ -56,7 +60,6 @@ http://arxiv.org/abs/2404.17864), iFM, 2024
 ## 2023
 
 - M. Bartoletti, M. Murgia, R. Zunino. [Sound approximate and asymptotic probabilistic bisimulations for PCTL](https://arxiv.org/abs/2111.03117). In Logical Methods in Computer Science 19(1), 2023
-- M. Bartoletti, R. Zunino. [A theoretical basis for Blockchain Extractable Value](http://arxiv.org/abs/2302.02154). Submitted, 2023
 - M. Bartoletti. [Which smart contract platform do you need?](https://www.blockchainresearchinstitute.org/project/which-smart-contract-platform-do-you-need/), Blockchain Research Institute, 2023
 
 ## 2022
