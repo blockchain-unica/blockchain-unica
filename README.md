@@ -47,6 +47,7 @@ Past projects:
 ## 2025
 
 - M. Bartoletti, R. Zunino. [A theoretical basis for MEV](http://arxiv.org/abs/2302.02154). Financial Cryptography, 2025
+- M. Bartoletti, S. Crafa, E. Lipparini. Formal verification in Solidity and Move: insights from a comparative analysis. ArXiV preprint, 2025
 
 ## 2024
 
