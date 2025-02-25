@@ -2,8 +2,10 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **02/2025** Serving as PC member of [COORDINATION 2025](https://www.discotec.org/2025/coordination.html)
 - **02/2025** Serving as PC member of [WTSC 2025](https://fc25.ifca.ai/wtsc/index.html)
 - **02/2025** Serving as PC member of [FMBC 2025](https://fmbc.gitlab.io/2025)
+- **02/2025** Serving as PC member of [CAAW 2025](https://caaw.io/2025/)
 - **01/2025** Serving as PC member of [ICBC 2025](https://icbc2025.ieee-icbc.org/)
 - **10/2024** Invited lecture at the [Lisbon Blockchain Winter School (LxBWS)](https://lxbws.tecnico.ulisboa.pt/) 
 - **9/2024** Serving as PC member of [Financial Cryptography 2025](https://fc25.ifca.ai/)
