@@ -50,6 +50,7 @@ Past projects:
 
 - M. Bartoletti, R. Zunino. [A theoretical basis for MEV](http://arxiv.org/abs/2302.02154). Financial Cryptography, 2025
 - M. Bartoletti, S. Crafa, E. Lipparini. [Formal verification in Solidity and Move: insights from a comparative analysis](https://arxiv.org/abs/2502.13929). ArXiV preprint, 2025
+- M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). ArXiV preprint, 2025
 
 ## 2024
 
@@ -61,7 +62,6 @@ Past projects:
 - D. Pusceddu and M. Bartoletti. [Formalizing Automated Market Makers in the Lean 4 Theorem Prover](https://arxiv.org/abs/2402.06064). FMBC, 2024
 - M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone. [Solvent: liquidity verification of smart contracts](
 http://arxiv.org/abs/2404.17864), iFM, 2024
-- M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). ArXiV preprint, 2024
 
 ## 2023
 
