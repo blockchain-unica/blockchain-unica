@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **03/2025** Serving as PC member of [IEEE DAPPS 2025](https://conf.researchr.org/track/cisose-2025/dapps-2025)
 - **02/2025** Serving as PC member of [COORDINATION 2025](https://www.discotec.org/2025/coordination.html)
 - **02/2025** Serving as PC chair of [WTSC 2025](https://fc25.ifca.ai/wtsc/index.html)
 - **02/2025** Serving as PC member of [FMBC 2025](https://fmbc.gitlab.io/2025)
@@ -18,12 +19,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **1/2024** [DeFi composability](https://arxiv.org/abs/2309.10781) paper accepted at [FC 2024](https://fc24.ifca.ai/) 
 - **12/2023** Organizing [DLT 2024](https://dlt2024.di.unito.it/)
 - **12/2023** Received the CCS 2023 Top Reviewer Award from [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
-- **9/2023** Serving as PC member of [Financial Cryptography 2024](https://fc24.ifca.ai/)
-- **7/2023** Organizing [DLT-FM: Workshop on Distributed Ledger Technologies and Formal Methods](https://dlt-fm-workshop.github.io/)
-- **7/2023** Organizing the [4th Blockchain & DLT School](https://dlt-school.github.io/2023)
-- **5/2023** Serving as PC member of [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
-- **3/2023** Serving as PC member of [IEEE DAPPS 2023](https://ieeedapps.com/)
-- **1/2023** Serving as PC member of [WTSC 2023](https://fc23.ifca.ai/wtsc/index.html)
+- **9/2023** Serving as PC member of [Financial Cryptography 2024](https://fc24.ifca.a
 - **[older news](news.md)**
 
 # Projects
