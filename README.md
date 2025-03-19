@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **04/2025** Serving as PC member of [EAI BlockTEA 2025](https://blocktea.eai-conferences.org/2025/)
 - **03/2025** Serving as PC member of [IEEE DAPPS 2025](https://conf.researchr.org/track/cisose-2025/dapps-2025)
 - **02/2025** Serving as PC member of [COORDINATION 2025](https://www.discotec.org/2025/coordination.html)
 - **02/2025** Serving as PC chair of [WTSC 2025](https://fc25.ifca.ai/wtsc/index.html)
