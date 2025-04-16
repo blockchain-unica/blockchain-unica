@@ -118,6 +118,7 @@ http://arxiv.org/abs/2404.17864), iFM, 2024
 
 # Talks
 
+- [A formal theory of MEV](https://docs.google.com/presentation/d/e/2PACX-1vSjXyrXkpKdH7YqXJTBjb6gFd-WZ-XeeJEinrjSZQRnhjL1qcNBKkkKvT70ATkGDXkzWn0J0qndCjHA/pub?start=false&loop=false&delayms=3000) talk at Financial Cryptography, 2025
 - [MEV-freedom in DeFi and beyond](https://docs.google.com/presentation/d/1jbXMTbBhxkGqAm-ISBOpZ5KkXFJgglLkAOejnWd-pP8/edit?usp=sharing). Invited talk at [FMBC 2022](https://fmbc.gitlab.io/2022/)
 - [Maximizing Extractable Value from Automated Market Makers](https://youtu.be/rAxIuAP_6mw) talk at Financial Cryptography, 2022
 - Smart contracts in Bitcoin and BitML. Invited talk at the [3rd Workshop on Blockchain-based Architectures (BlockArch)](https://ww2.inf.ufg.br/~insight/blockarch2022/program.html), 2022
