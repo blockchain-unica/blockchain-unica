@@ -119,6 +119,8 @@ http://arxiv.org/abs/2404.17864), iFM, 2024
 # Talks
 
 - [A formal theory of MEV](https://docs.google.com/presentation/d/e/2PACX-1vSjXyrXkpKdH7YqXJTBjb6gFd-WZ-XeeJEinrjSZQRnhjL1qcNBKkkKvT70ATkGDXkzWn0J0qndCjHA/pub?start=false&loop=false&delayms=3000) talk at Financial Cryptography, 2025
+- [Get rich with crypto!](https://docs.google.com/presentation/d/e/2PACX-1vT_7SfGcCiEnXpaRzm51u4Ff_t8dxg1hiDmutAGqhSVnPr--i70pd7ES2g7zhDxrpteTu8X23m5wtJ1/pub?start=false&loop=false&delayms=3000) talk at The Future of AI in Academic Research: Machine Learning, Quantum Computing, 2025
+- [Smart Contracts Languages: A comparative analysis](https://docs.google.com/presentation/d/e/2PACX-1vS_ELInDQleBp8YxFKv0BYSVMZGabAx-hGgiavAFf0Odk1bbOKzwEkjd8o3plHQH8Tv5HoJ76AEg-DU/pub?start=false&loop=false&delayms=3000) invited lecture at [Lisbon Blockchain Winter School (LxBWS)](https://lxbws.tecnico.ulisboa.pt/)
 - [MEV-freedom in DeFi and beyond](https://docs.google.com/presentation/d/1jbXMTbBhxkGqAm-ISBOpZ5KkXFJgglLkAOejnWd-pP8/edit?usp=sharing). Invited talk at [FMBC 2022](https://fmbc.gitlab.io/2022/)
 - [Maximizing Extractable Value from Automated Market Makers](https://youtu.be/rAxIuAP_6mw) talk at Financial Cryptography, 2022
 - Smart contracts in Bitcoin and BitML. Invited talk at the [3rd Workshop on Blockchain-based Architectures (BlockArch)](https://ww2.inf.ufg.br/~insight/blockarch2022/program.html), 2022
