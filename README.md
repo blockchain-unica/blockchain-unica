@@ -118,6 +118,7 @@ http://arxiv.org/abs/2404.17864), iFM, 2024
 
 # Talks
 
+- [Formal verification of smart contracts: Solidity vs. Move](https://docs.google.com/presentation/d/1ttHTla-a49hvcIiLtZQ5REHcwDwO2Jq4U8FskRrmr2E/edit?usp=sharing) Invited talk at [DTU Compute](https://www.compute.dtu.dk/)
 - [A formal theory of MEV](https://docs.google.com/presentation/d/e/2PACX-1vSjXyrXkpKdH7YqXJTBjb6gFd-WZ-XeeJEinrjSZQRnhjL1qcNBKkkKvT70ATkGDXkzWn0J0qndCjHA/pub?start=false&loop=false&delayms=3000) talk at Financial Cryptography, 2025
 - [Get rich with crypto!](https://docs.google.com/presentation/d/e/2PACX-1vT_7SfGcCiEnXpaRzm51u4Ff_t8dxg1hiDmutAGqhSVnPr--i70pd7ES2g7zhDxrpteTu8X23m5wtJ1/pub?start=false&loop=false&delayms=3000) talk at The Future of AI in Academic Research: Machine Learning, Quantum Computing, 2025
 - [Smart Contracts Languages: A comparative analysis](https://docs.google.com/presentation/d/e/2PACX-1vS_ELInDQleBp8YxFKv0BYSVMZGabAx-hGgiavAFf0Odk1bbOKzwEkjd8o3plHQH8Tv5HoJ76AEg-DU/pub?start=false&loop=false&delayms=3000) invited lecture at [Lisbon Blockchain Winter School (LxBWS)](https://lxbws.tecnico.ulisboa.pt/)
