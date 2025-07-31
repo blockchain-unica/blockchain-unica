@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **09/2025** Invited talk at [Frontiers in DeFi 2025](https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/)
 - **05/2025** Serving as PC member of [DLT 2025](https://events.dimes.unical.it/dlt2025/)
 - **05/2025** Invited talk at the [DTU Compute](https://www.compute.dtu.dk/)
 - **04/2025** Serving as PC member of [EAI BlockTEA 2025](https://blocktea.eai-conferences.org/2025/)
@@ -19,7 +20,6 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **4/2024** Attending the [FMBC Workshop](https://fmbc.gitlab.io/2024/index.html) in Luxembourg
 - **2/2024** Serving as PC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html)
 - **2/2024** Serving as PC member of [FMBC 2024](https://fmbc.gitlab.io/2024/index.html)
-- **1/2024** [DeFi composability](https://arxiv.org/abs/2309.10781) paper accepted at [FC 2024](https://fc24.ifca.ai/) 
 - **[older news](news.md)**
 
 # Projects
