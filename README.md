@@ -3,6 +3,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # News
 
 - **09/2025** Invited talk at [Frontiers in DeFi 2025](https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/)
+- **08/2025** Serving as PC member of [IEEE ICBC 2026](https://icbc2026.ieee-icbc.org/)
 - **07/2025** DIGITAL-ECCC-2024-DEPLOY-CYBER-07-KEYTECH Project VANTAGE accepted
 - **05/2025** Serving as PC member of [DLT 2025](https://events.dimes.unical.it/dlt2025/)
 - **05/2025** Invited talk at the [DTU Compute](https://www.compute.dtu.dk/)
