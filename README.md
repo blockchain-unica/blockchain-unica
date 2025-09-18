@@ -124,6 +124,7 @@ http://arxiv.org/abs/2404.17864), iFM, 2024
 
 # Talks
 
+- [A theory of Lending Protocols in DeFi](https://docs.google.com/presentation/d/17Rr5noCMVBmfZss8NdYs-cZjlsnZjxoZY3CO7V9JlTk/edit?usp=sharing). Invited talk at [Frontiers in DeFi 2025](https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/)
 - [Formal verification of smart contracts: Solidity vs. Move](https://docs.google.com/presentation/d/1ttHTla-a49hvcIiLtZQ5REHcwDwO2Jq4U8FskRrmr2E/edit?usp=sharing). Invited talk at [DTU Compute](https://www.compute.dtu.dk/)
 - [A formal theory of MEV](https://docs.google.com/presentation/d/e/2PACX-1vSjXyrXkpKdH7YqXJTBjb6gFd-WZ-XeeJEinrjSZQRnhjL1qcNBKkkKvT70ATkGDXkzWn0J0qndCjHA/pub?start=false&loop=false&delayms=3000) talk at Financial Cryptography, 2025
 - [Get rich with crypto!](https://docs.google.com/presentation/d/e/2PACX-1vT_7SfGcCiEnXpaRzm51u4Ff_t8dxg1hiDmutAGqhSVnPr--i70pd7ES2g7zhDxrpteTu8X23m5wtJ1/pub?start=false&loop=false&delayms=3000) talk at The Future of AI in Academic Research: Machine Learning, Quantum Computing, 2025
