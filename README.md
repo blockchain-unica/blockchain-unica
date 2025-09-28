@@ -51,6 +51,7 @@ Past projects:
 - M. Bartoletti, S. Crafa, E. Lipparini. [Formal verification in Solidity and Move: insights from a comparative analysis](https://arxiv.org/abs/2502.13929). FMBC, 2025
 - M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). Future Generation Computer Systems (to appear), 2025
 - M. Bartoletti, E. Lipparini. [A theory of Lending Protocols in DeFi](https://arxiv.org/abs/2506.15295). ArXiV preprint, 2025
+- M. Bartoletti, E. Lipparini, L. Pompianu. [LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153), ArXiV preprint, 2025
 - E. Priyadarshini, M. Bartoletti. [A quantitative notion of economic security for smart contract compositions](https://arxiv.org/abs/2505.19006). WTSC, 2025
 
 ## 2024
