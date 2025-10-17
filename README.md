@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **10/2025** Serving as chair of [FMBC 2026](https://fmbc.gitlab.io/2026/index.html) 
 - **09/2025** Invited talk at [Frontiers in DeFi 2025](https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/)
 - **08/2025** Serving as PC member of [IEEE ICBC 2026](https://icbc2026.ieee-icbc.org/)
 - **07/2025** DIGITAL-ECCC-2024-DEPLOY-CYBER-07-KEYTECH Project VANTAGE accepted
@@ -16,13 +17,6 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **02/2025** Serving as PC member of [CAAW 2025](https://caaw.io/2025/)
 - **02/2025** Invited lecture at the [Lisbon Blockchain Winter School (LxBWS)](https://lxbws.tecnico.ulisboa.pt/) 
 - **01/2025** Serving as PC member of [ICBC 2025](https://icbc2025.ieee-icbc.org/)
-- **9/2024** Serving as PC member of [Financial Cryptography 2025](https://fc25.ifca.ai/)
-- **6/2024** Organizing the [5th Blockchain & DLT School](https://dlt-school.github.io/)
-- **5/2024** Attending the [Frontiers in DeFi](https://csh.ac.at/events/frontiers-in-defi/) workshop in Wien
-- **5/2024** Attending the [DLT Workshop](https://dlt2024.di.unito.it/) in Turin
-- **4/2024** Attending the [FMBC Workshop](https://fmbc.gitlab.io/2024/index.html) in Luxembourg
-- **2/2024** Serving as PC member of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html)
-- **2/2024** Serving as PC member of [FMBC 2024](https://fmbc.gitlab.io/2024/index.html)
 - **[older news](news.md)**
 
 # Projects
