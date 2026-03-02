@@ -43,21 +43,22 @@ Past projects:
 
 ## 2026
 
+- M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). Future Generation Computer Systems 175, 2026
 - M. Bartoletti, E. Lipparini, L. Pompianu. [LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153), Financial Cryptography, 2026
+- M. Dessalvi, M. Bartoletti, A. Lluch-Lafuente. [A Formal Approach to AMM Fee Mechanisms with Lean 4](https://arxiv.org/abs/2602.00101), FMBC, 2026
 
 ## 2025
 
+- M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
+](https://www.sciencedirect.com/science/article/pii/S0167739X24005272?via%3Dihub), Future Generation Computer Systems 164, 2025
 - M. Bartoletti, R. Zunino. [A theoretical basis for MEV](http://arxiv.org/abs/2302.02154). Financial Cryptography, 2025
 - M. Bartoletti, S. Crafa, E. Lipparini. [Formal verification in Solidity and Move: insights from a comparative analysis](https://arxiv.org/abs/2502.13929). FMBC, 2025
-- M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). Future Generation Computer Systems (to appear), 2025
 - M. Bartoletti, E. Lipparini. [A theory of Lending Protocols in DeFi](https://arxiv.org/abs/2506.15295). ArXiV preprint, 2025
 - M. Bartoletti, R. Marchesin, R. Zunino. [Certifying optimal MEV strategies with Lean](http://arxiv.org/abs/2510.14480), ArXiV preprint, 2025
 - E. Priyadarshini, M. Bartoletti. [A quantitative notion of economic security for smart contract compositions](https://arxiv.org/abs/2505.19006). WTSC, 2025
 
 ## 2024
 
-- M. Bartoletti, L. Benetollo, M. Bugliesi, S. Crafa, G. Dal Sasso, R. Pettinau, A. Pinna, M. Piras, S. Rossi, S. Salis, A. Spanò, V. Tkachenko, R. Tonelli, R. Zunino. [Smart Contract Languages: a comparative analysis
-](https://www.sciencedirect.com/science/article/pii/S0167739X24005272?via%3Dihub), Future Generation Computer Systems 164, 2024
 - M. Bartoletti, R. Marchesin, R. Zunino. [Secure compilation of rich smart contracts on poor UTXO blockchains](https://arxiv.org/abs/2305.09545). IEEE European Symposium on Security and Privacy, 2024
 - M. Bartoletti, R. Marchesin, R. Zunino. [DeFi composability as MEV non-interference](https://arxiv.org/abs/2309.10781). Financial Cryptography, 2024
 - M. Bartoletti, F. Fioravanti, G. Matricardi, R. Pettinau and F. Sainas. [Towards Benchmarking of Solidity verification tools](https://arxiv.org/abs/2402.10750). FMBC, 2024
