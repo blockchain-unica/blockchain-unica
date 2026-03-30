@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **05/2026** Invited talk at [Frontiers in DeFi 2026](https://frontiers-in-defi.github.io/Berlin2026)
 - **01/2026** Serving as PC member of [Designing DeFi 2026](https://www.designingdefi.xyz/)
 - **01/2026** Serving as PC member of [WTSC 2026](https://fc26.ifca.ai/wtsc/)
 - **10/2025** Serving as chair of [FMBC 2026](https://fmbc.gitlab.io/2026/index.html) 
