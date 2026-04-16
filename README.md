@@ -25,7 +25,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # Projects
 
 Current projects:
-- [KindHML: formal verification of smart contracts based on Hennessy-Milner Logic]((https://github.com/SmartContractsVerification/KindHML)
+- [KindHML: formal verification of smart contracts based on Hennessy-Milner Logic](https://github.com/SmartContractsVerification/KindHML)
 - [TinySol: OCaml interpreter of a tiny Solidity fragment](https://github.com/bitbart/tinysol-lang)
 - [ILLUM: a compiler from the HeLLUM contract language to the ILLUM intermediate language](https://github.com/bitbart/illum-lang)
 - [Rosetta Smart Contracts: a chrestomathy of programming tasks in different smart contract languages](https://github.com/blockchain-unica/rosetta-smart-contracts)
