@@ -25,7 +25,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # Projects
 
 Current projects:
-- [Solvent: liquidity verification of smart contracts](https://github.com/bitbart/Solvent)
+- [KindHML: formal verification of smart contracts based on Hennessy-Milner Logic]((https://github.com/SmartContractsVerification/KindHML)
 - [TinySol: OCaml interpreter of a tiny Solidity fragment](https://github.com/bitbart/tinysol-lang)
 - [ILLUM: a compiler from the HeLLUM contract language to the ILLUM intermediate language](https://github.com/bitbart/illum-lang)
 - [Rosetta Smart Contracts: a chrestomathy of programming tasks in different smart contract languages](https://github.com/blockchain-unica/rosetta-smart-contracts)
@@ -39,6 +39,7 @@ Past projects:
 - [DeFi workbench](https://github.com/blockchain-unica/defi-workbench): a Decentralized Finance (DeFi) library in OCaml
 - [BlockAPI](https://github.com/blockchain-unica/blockapi): blockchain analytics APIs in Scala
 - [Blockchain for social good](https://github.com/blockchain-unica/social-good): a curated collection of blockchain-enabled social good projects
+- [Solvent: liquidity verification of smart contracts](https://github.com/bitbart/Solvent)
 
 # Publications 
 
