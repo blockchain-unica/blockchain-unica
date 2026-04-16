@@ -44,6 +44,7 @@ Past projects:
 
 ## 2026
 
+- M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone: [KindHML: formal verification of smart contracts based on Hennessy-Milner logic](https://arxiv.org/abs/2604.14038). CoRR abs/2604.14038, 2026
 - M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). Future Generation Computer Systems 175, 2026
 - M. Bartoletti, E. Lipparini, L. Pompianu. [LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153), Financial Cryptography, 2026
 - M. Dessalvi, M. Bartoletti, A. Lluch-Lafuente. [A Formal Approach to AMM Fee Mechanisms with Lean 4](https://arxiv.org/abs/2602.00101), FMBC, 2026
