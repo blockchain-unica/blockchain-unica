@@ -25,6 +25,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 # Projects
 
 Current projects:
+- [Neuroforger: certified violation witnesses for smart contracts verification via LLMs](https://github.com/elipparini/Neuroforger)
 - [KindHML: formal verification of smart contracts based on Hennessy-Milner Logic](https://github.com/SmartContractsVerification/KindHML)
 - [TinySol: OCaml interpreter of a tiny Solidity fragment](https://github.com/bitbart/tinysol-lang)
 - [ILLUM: a compiler from the HeLLUM contract language to the ILLUM intermediate language](https://github.com/bitbart/illum-lang)
@@ -45,6 +46,7 @@ Past projects:
 
 ## 2026
 
+- M. Bartoletti, E. Lipparini: [Neuroforger: certified violation witnesses for smart contracts verification via LLMs](https://arxiv.org/abs/2605.31389). CoRR abs/2605.31389, 2026
 - M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone: [KindHML: formal verification of smart contracts based on Hennessy-Milner logic](https://arxiv.org/abs/2604.14038). CoRR abs/2604.14038, 2026
 - M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). Future Generation Computer Systems 175, 2026
 - M. Bartoletti, E. Lipparini, L. Pompianu. [LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153), Financial Cryptography, 2026
