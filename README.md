@@ -46,6 +46,7 @@ Past projects:
 
 ## 2026
 
+- M. Bartoletti, R. Marchesin, R. Zunino: [A formal framework for the economic security of DeFi compositions](https://arxiv.org/abs/2606.05418). CoRR abs/2606.05418, 2026
 - M. Bartoletti, E. Lipparini: [Neuroforger: certified violation witnesses for smart contracts verification via LLMs](https://arxiv.org/abs/2605.31389). CoRR abs/2605.31389, 2026
 - M. Bartoletti, A. Ferrando, E. Lipparini, V. Malvone: [KindHML: formal verification of smart contracts based on Hennessy-Milner logic](https://arxiv.org/abs/2604.14038). CoRR abs/2604.14038, 2026
 - M. Bartoletti, R. Marchesin, R. Zunino. [Scalable UTXO Smart Contracts via Fine-Grained Distributed State](http://arxiv.org/abs/2406.07700). Future Generation Computer Systems 175, 2026
