@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **07/2026** Serving as PC member of [Financial Cryptography 2027](https://ifca.ai/fc27/)
 - **05/2026** Invited talk at [Frontiers in DeFi 2026](https://frontiers-in-defi.github.io/Berlin2026)
 - **01/2026** Serving as PC member of [Designing DeFi 2026](https://www.designingdefi.xyz/)
 - **01/2026** Serving as PC member of [WTSC 2026](https://fc26.ifca.ai/wtsc/)
@@ -9,6 +10,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 - **09/2025** Invited talk at [Frontiers in DeFi 2025](https://events.htw-berlin.de/forschung/frontiers-in-defi-2025/)
 - **08/2025** Serving as PC member of [IEEE ICBC 2026](https://icbc2026.ieee-icbc.org/)
 - **07/2025** DIGITAL-ECCC-2024-DEPLOY-CYBER-07-KEYTECH Project VANTAGE accepted
+- **07/2025** Serving as PC member of [Financial Cryptography 2026](https://ifca.ai/fc26/)
 - **05/2025** Serving as PC member of [DLT 2025](https://events.dimes.unical.it/dlt2025/)
 - **05/2025** Invited talk at the [DTU Compute](https://www.compute.dtu.dk/)
 - **05/2025** HORIZON-TMA-MSCA-DN Project E-Core accepted 
