@@ -2,6 +2,7 @@ The Blockchain@Unica Lab at the [University of Cagliari](https://www.unica.it) c
 
 # News
 
+- **11/2027** Talk on [economic security of DeFi compositions](https://docs.google.com/presentation/d/1UlfnG51zpyYP2UH6VdGNrHN4huY7EKO0/edit?usp=drive_link&ouid=100822920206768007653&rtpof=true&sd=true) in Pisa
 - **11/2027** Serving as PC member of [CAAW 2027](https://caaw.io/2027/)
 - **11/2027** Serving as PC member of [WTSC 2027](https://fc27.ifca.ai/wtsc/)
 - **09/2026** Serving as Guest Editor for the JLAMP Special Issue on [Formal Methods in Blockchains](https://www.sciencedirect.com/special-issue/338548/formal-methods-in-blockchains)
